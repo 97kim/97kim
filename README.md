@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!%20there&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Hi!%20there&fontSize=90)
 
-<h2>Hi! I'm KyeongJung Kim 😀</h2><br>
+<h2>I'm KyeongJung Kim 😀</h2><br>
 
 <h2 align="center">🔨 Tech Stack 🔨</h2>
 <p align="center">
