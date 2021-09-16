@@ -1,4 +1,4 @@
-<h1>Hi! I'm KyeongJung Kim 😀</h1>
+<h2>Hi! I'm KyeongJung Kim 😀</h2><br>
 
 <h2 align="center">🔨 Tech Stack 🔨</h2>
 <p align="center">
