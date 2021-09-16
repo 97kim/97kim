@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> &nbsp
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
 </p>
-<hr>
+<br>
 <h2 align="center">👇 Link 👇 </h2>
 <p align="center">
     <a href="https://velog.io/@rudwnd33"><img src="https://img.shields.io/badge/TIL in Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/> </a> &nbsp
