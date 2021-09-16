@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @KimKyeongJung
-- 👀 I’m interested in Back-end frameworks like Spring(Boot), Django, etc..
-- 🌱 I’m currently learning Spring(Boot), Thymeleaf, JPA, Python, etc..
-
-<br>
-
 <h2 align="center">🔨 Tech Stack 🔨</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
