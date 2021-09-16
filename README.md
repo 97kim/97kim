@@ -33,5 +33,5 @@
     <a href="https://kimkj-blog.notion.site/Jung-log-68eaf5d900634eac8c646d2b078a2a44"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> &nbsp
 </p>
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=footer)
 
