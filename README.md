@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 <h2>Hi! I'm KyeongJung Kim 😀</h2><br>
 
 <h2 align="center">🔨 Tech Stack 🔨</h2>
