@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=header&fontSize=30&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=header)
 
 <h2>I'm KyeongJung Kim 😀</h2><br>
 
