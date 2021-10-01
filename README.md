@@ -2,7 +2,7 @@
 
 <h2>Hi! I'm KyeongJung Kim 😀</h2><br>
 
-<h2 align="center">🔨 Tech Stack 🔨</h2>
+<h2 align="center">🔨 My experience 🔨</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white"/> &nbsp
