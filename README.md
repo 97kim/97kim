@@ -12,7 +12,6 @@
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=SpringBoot&logoColor=white"/> &nbsp
-    <img src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=Django&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/Flask-000000?style=plastic&logo=Flask&logoColor=white"/> &nbsp
 </p>
 <p align="center">
