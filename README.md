@@ -2,8 +2,6 @@
 
 <h2>Hi! I'm KyeongJung Kim 😀</h2><br>
 
-<br>
-
 <h2 align="center">👇 Link 👇 </h2>
 <p align="center">
     <a href="https://velog.io/@rudwnd33"><img src="https://img.shields.io/badge/TIL in Velog-20c997?style=plastic&logo=Vimeo&logoColor=white"/> </a> &nbsp
