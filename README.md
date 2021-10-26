@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=header)
 
-<h2>Hi! I'm KyeongJung Kim 😀</h2><br>
+<h2>Hi! I'm KyeongJung Kim 😀</h2>
 
 <h2 align="center">👇 Link 👇 </h2>
 
