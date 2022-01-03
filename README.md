@@ -2,7 +2,7 @@
 
 <h2>Hi! I'm KyeongJung Kim 😀</h2>
 
-[![97kim's github stats](https://github-readme-stats.vercel.app/api?username=97kim)](https://github.com/anuraghazra/github-readme-stats)
+[![97kim's github stats](https://github-readme-stats.vercel.app/api?username=97kim&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2 align="center">👇 My Link 👇 </h2>
 
