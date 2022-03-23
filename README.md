@@ -11,7 +11,7 @@
 <h2 align="center">👇 My Blog 👇 </h2>
 
 <p align="center">
-    <a href="https://velog.io/@rudwnd33"><img src="https://img.shields.io/badge/Velog-20c997?style=plastic&logo=Vimeo&logoColor=white"/> </a> &nbsp
+    <a href="https://tech.kjkim.me"><img src="https://img.shields.io/badge/Blog-20c997?style=plastic&logo=Vimeo&logoColor=white"/> </a> &nbsp
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=footer)
