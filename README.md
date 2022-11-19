@@ -2,6 +2,8 @@
 
 <h2>Hi! I'm KyeongJung Kim 😀</h2>
 
+주니어 백엔드 개발자입니다.
+
 <div align="center">
     
 [![97kim's github stats](https://github-readme-stats.vercel.app/api?username=97kim&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
