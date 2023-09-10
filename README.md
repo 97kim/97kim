@@ -2,7 +2,7 @@
 
 <h2>Hi! I'm KyeongJung Kim 😀</h2>
 
-주니어 백엔드 개발자입니다.
+안녕하세요. 백엔드 개발자입니다.
 
 <div align="center">
     
