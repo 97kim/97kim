@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=100&section=header)
 
-<h2>Hi! I'm KyeongJung Kim 😀</h2>
+<h2>Hi! I'm KyungJung Kim 😀</h2>
 
 안녕하세요. 주로 백엔드 개발을 하고, 프론트엔드 개발도 하고 있습니다.
 
