@@ -4,12 +4,6 @@
 
 안녕하세요. 주로 백엔드 개발을 하고, 프론트엔드 개발도 하고 있습니다.
 
-<div align="center">
-    
-[![97kim's github stats](https://github-readme-stats.vercel.app/api?username=97kim&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-    
-</div>
-
 <h2 align="center">👇 My Blog 👇 </h2>
 <p align="center">
     <a href="[https://97kim.github.io](https://velog.io/@rudwnd33)"><img src="https://img.shields.io/badge/이사 전 블로그-20c997?style=plastic&logoColor=white"/></a> &nbsp
