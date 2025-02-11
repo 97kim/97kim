@@ -2,7 +2,7 @@
 
 <h2>Hi! I'm KyungJung Kim 😀</h2>
 
-안녕하세요. 주로 백엔드 개발을 하고, 프론트엔드 개발도 하고 있습니다.
+안녕하세요. 백엔드로 시작해서 프론트엔드까지 개발하고 있습니다.
 
 <h2 align="center">👇 My Blog 👇 </h2>
 <p align="center">
